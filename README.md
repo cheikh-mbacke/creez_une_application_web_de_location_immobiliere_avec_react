@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Ce projet est une implémentation du front-end d'une application web utilisant React et React Router pour offrir une expérience utilisateur moderne et réactive. Le développement a été concentré sur la logique de présentation des données et les composants React, en tirant parti des maquettes fournies et en utilisant des données simulées à partir d'un fichier JSON. L'utilisation de React Router a permis de configurer une navigation fluide entre les différentes pages de l'application.
+Ce projet est une implémentation du front-end d'une application web utilisant React et React Router pour offrir une expérience utilisateur moderne et réactive. Le développement a été concentré sur la logique de présentation des données et les composants React, en tirant parti des [maquettes](https://github.com/cheikh-mbacke/creez_une_application_web_de_location_immobiliere_avec_react/tree/main/public/maquettes/) fournies et en utilisant des données simulées à partir d'un fichier JSON. L'utilisation de React Router a permis de configurer une navigation fluide entre les différentes pages de l'application.
 
 ## Technologies Utilisées
 
